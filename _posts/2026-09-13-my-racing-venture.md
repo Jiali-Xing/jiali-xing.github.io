@@ -8,5 +8,3 @@ categories: life
 ---
 
 Miata is always the answer.
-
-目前先把這句話放在這裏，作爲賽車事業的基本綱領。等真正有更多賽道、駕駛和車輛相關的故事，再逐一補上。

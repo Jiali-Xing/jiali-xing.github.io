@@ -9,4 +9,4 @@ categories: life
 
 我的遊戲記錄在 [Steam](https://steamcommunity.com/id/xjiali)。
 
-有些遊戲通關了，有些遊戲主要負責證明我的願望單管理能力。以後如果想認真寫某一款遊戲，或者整理真正值得推薦的作品，會從這裏繼續展開。
+我同時在進行傳統字補丁（給有漢化但是沒有繁體中文版的遊戲 patching）。但是截止目前，這個 patching 還不算成功。姑且有一個 [GitHub repo](https://github.com/Jiali-Xing/Game-in-Traditional-Chinese).
