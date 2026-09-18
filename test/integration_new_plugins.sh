@@ -8,10 +8,50 @@
 set -euo pipefail
 
 tmp_dir="$(mktemp -d)"
+rtl_fixture="_posts/2022-10-15-rtl.md"
+marimo_fixture="_posts/2025-04-28-marimo.md"
 cleanup() {
+  rm -f "${rtl_fixture}" "${marimo_fixture}"
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+if [[ -e "${rtl_fixture}" || -e "${marimo_fixture}" ]]; then
+  echo "refusing to overwrite an existing new-plugin fixture" >&2
+  exit 1
+fi
+
+cat >"${rtl_fixture}" <<'MARKDOWN'
+---
+layout: post
+title: RTL integration fixture
+date: 2022-10-15 10:00:00
+lang: fa
+related_posts: false
+sitemap: false
+---
+
+این یک نوشتهٔ آزمایشی راست‌چین است.
+MARKDOWN
+
+cat >"${marimo_fixture}" <<'MARKDOWN'
+---
+layout: post
+title: Marimo integration fixture
+date: 2025-04-28 12:00:00
+marimo: true
+related_posts: false
+sitemap: false
+---
+
+<div class="al-marimo-inline" markdown="1">
+
+```python
+1 + 1
+```
+
+</div>
+MARKDOWN
 
 build() {
   local name="$1"
