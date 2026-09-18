@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jiali Xing # the website title (if blank, full name will be used instead)
-first_name: Jiali
+title: 邢嘉力 Jiali Xing # the website title (if blank, full name will be used instead)
+first_name: 邢嘉力 Jiali
 middle_name:
 last_name: Xing
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Jiali Xing, a software engineer at Google and a 2026 Ph.D. graduate of the University of Pennsylvania.
+  Personal website of 邢嘉力 (Jiali Xing), a software engineer at Google and a 2026 Ph.D. graduate of the University of Pennsylvania.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -96,7 +96,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
