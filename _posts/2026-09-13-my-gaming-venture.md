@@ -3,7 +3,7 @@ layout: post
 title: 我的遊戲事業
 date: 2026-09-13 14:00:00-0700
 description: 我的遊戲記錄與 Steam 主頁。
-tags: games steam
+tags: games steam geek
 categories: life
 ---
 

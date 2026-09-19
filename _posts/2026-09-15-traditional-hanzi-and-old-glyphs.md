@@ -3,11 +3,13 @@ layout: post
 title: 我的漢字審美事業：傳統字與舊字形
 date: 2026-09-15 10:00:00-0700
 description: 我爲甚麼堅持使用傳統漢字與舊字形，以及如何在 Linux、Android 和瀏覽器中實現它。
-tags: hanzi typography linux android
+tags: hanzi typography aesthetics geek linux android
 categories: technology
 ---
 
 我堅持使用傳統漢字，也偏愛舊字形。這不只是一種視覺趣味；字形背後保存着字與字之間的關係，也保存着漢字演變的脈絡。
+
+最近我買了一支 LAMY 鋼筆，也重新開始寫鋼筆字。漢字的美不只存在於螢幕上的字體裏，也存在於筆尖與紙張之間。
 
 ## 爲甚麼使用傳統漢字？
 
