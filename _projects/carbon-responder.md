@@ -2,7 +2,7 @@
 layout: page
 title: Carbon Responder
 description: Coordinating demand response for the datacenter fleet.
-importance: 1
+importance: 2
 category: research
 ---
 

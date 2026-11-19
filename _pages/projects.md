@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
 description: Selected research projects in sustainable computing and distributed systems.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [research]
 horizontal: false
 ---

@@ -8,12 +8,12 @@ middle_name:
 last_name: Xing
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of 邢嘉力 (Jiali Xing), a software engineer at Google and a 2026 Ph.D. graduate of the University of Pennsylvania.
+  Academic website of 邢嘉力 (Jiali Xing), a Ph.D. software engineer at Google working on distributed systems, cloud computing, machine learning systems, and computational economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Jiali Xing, software engineer, distributed systems, economics and computation, Google, University of Pennsylvania, Duke University
+keywords: Jiali Xing, distributed systems, cloud computing, computational economics, datacenter systems, sustainable computing, microservices, Google, University of Pennsylvania
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
