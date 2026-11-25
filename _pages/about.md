@@ -26,6 +26,8 @@ latest_posts:
 
 I am a Ph.D. software engineer at Google. My work spans distributed systems, cloud computing, machine learning systems, and computational economics.
 
+**Contact:** [jiali.xing@pm.me](mailto:jiali.xing@pm.me) · [LinkedIn](https://www.linkedin.com/in/jiali-xing-bb7595172/) · [Google Scholar](https://scholar.google.com/citations?user=aSd15OgAAAAJ) · [GitHub](https://github.com/Jiali-Xing)
+
 My research brings economic mechanisms—including dynamic pricing, token markets, and incentive design—and econometric causal inference to the design and evaluation of large-scale cloud and datacenter systems. At Google, I work on machine-learning systems for understanding local shopping intent.
 
 ## Research highlights
