@@ -2,8 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Software Engineer at Google · Distributed Systems, Cloud Computing, and Computational Economics
-
 profile:
   align: right
   image: jiali-xing.jpg
